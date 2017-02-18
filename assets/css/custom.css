@@ -1,0 +1,18 @@
+/**
+ * custom
+ * place custom style in this file
+ * add !important to the end if no effect
+ * e.g. color: #fff !important;
+ * --------------------------------------------------
+ *
+ */
+
+.img-circle {
+    border-radius: 50%;
+    width: 50%; 
+    height: 50%;
+}
+
+.team-table-header {
+	position: relative;
+}
